@@ -24,7 +24,7 @@ const posts = [{
     id:'2',
     title:'title2',
     body:'body2',
-    published: false,
+    published: true,
     author: '1',
     comments: ['333']
 },
